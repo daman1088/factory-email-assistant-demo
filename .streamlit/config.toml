@@ -1,0 +1,22 @@
+# Streamlit settings for the Factory Email Assistant demo (streamlit_app/). Community Cloud reads this file from
+# the repository root. It does not affect the Next.js / FastAPI application.
+[theme]
+base = "light"
+primaryColor = "#1d5fbf"
+backgroundColor = "#f6f7f9"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#101828"
+borderColor = "#e4e7ec"
+baseRadius = "medium"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFontWeights = [700, 600, 600, 600, 600, 600]
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = "none"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+maxUploadSize = 1

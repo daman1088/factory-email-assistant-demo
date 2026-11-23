@@ -1,0 +1,3597 @@
+{
+  "mailbox": {
+    "name": "Suryodaya Fabrics",
+    "email": "office@suryodaya-fabrics.example"
+  },
+  "messages": [
+    {
+      "id": "m001",
+      "thread": "t-abc-quote2",
+      "days_ago": 0,
+      "time": "09:05",
+      "direction": "inbound",
+      "from": {
+        "name": "Vikram Malhotra (ABC Textiles)",
+        "email": "purchase@abctextiles.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Quotation required - 60x60 cotton poplin, 5000 mtrs",
+      "body": "Dear Sir,\n\nGreetings from ABC Textiles, Mumbai.\n\nWe have a fresh requirement for our shirting programme and request your best quotation for:\n\n- Quality: 100% cotton poplin, 40s x 40s, 133 x 72 construction (60x60 finish)\n- Width: 58 inches\n- Finish: White RFD (ready for dyeing), soft finish\n- Quantity: 5,000 metres\n- Delivery: our Bhiwandi warehouse, within 25 days of PO\n\nPlease mention rate per metre ex-mill, GST, payment terms and lead time. Kindly share your offer\nby Wednesday as we are finalising the vendor this week.\n\nThanks & regards,\nVikram Malhotra\nPurchase Manager, ABC Textiles",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m002",
+      "thread": "t-kaveri-rayon",
+      "days_ago": 0,
+      "time": "09:40",
+      "direction": "inbound",
+      "from": {
+        "name": "Senthil Kumar",
+        "email": "sourcing@kaverigarments.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Enquiry: rayon printed fabric 140 GSM + samples",
+      "body": "Hello Suryodaya team,\n\nWe are developing a ladies kurti range for the spring season. Please let us know if you can supply\nrayon (viscose) printed fabric, 140 GSM, 44\" width, in 3 floral designs, around 1,500 m per design.\n\nCould you courier swatch samples of your current print collection to our Tiruppur office? Also please\nshare the price range and MOQ per design.\n\nRegards,\nSenthil Kumar\nSourcing Head, Kaveri Garments, Tiruppur",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m003",
+      "thread": "t-navrang-po118",
+      "days_ago": 0,
+      "time": "10:15",
+      "direction": "inbound",
+      "from": {
+        "name": "Navrang Fashions Purchase",
+        "email": "po@navrangfashions.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Purchase Order NF/PO/2526/118 - Cotton Cambric 3200 mtrs",
+      "body": "Dear Rakesh ji,\n\nPlease find attached our Purchase Order NF/PO/2526/118 for the following:\n\nItem: 100% cotton cambric, 60s x 60s, 92 x 88, 44\" width, RFD\nQuantity: 3,200 metres\nRate: Rs. 74.50 per metre + GST 5%\nOrder value: Rs. 2,38,400 + GST\nDelivery: on or before 10 December to our Jaipur godown\n\nKindly confirm acceptance of the PO and the dispatch date.\n\nRegards,\nPurchase Department\nNavrang Fashions, Jaipur",
+      "attachments": [
+        {
+          "filename": "NF-PO-2526-118.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m004",
+      "thread": "t-xyz-yarnprice",
+      "days_ago": 0,
+      "time": "10:50",
+      "direction": "inbound",
+      "from": {
+        "name": "XYZ Suppliers (Yarn Division)",
+        "email": "sales@xyzsuppliers.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Revised price - 40s combed cotton yarn w.e.f. 1st of next month",
+      "body": "Dear Customer,\n\nDue to the continued rise in cotton (Shankar-6) prices, we are revising our yarn rates with effect from\nthe 1st of next month:\n\n- 40s combed cotton (compact): Rs. 285/kg (earlier Rs. 278/kg)\n- 30s combed cotton: Rs. 262/kg (earlier Rs. 256/kg)\n\nOrders booked and confirmed before the 30th of this month will be honoured at the old rate.\nPlease let us know your requirement for next month.\n\nRegards,\nSales Team, XYZ Suppliers (Yarn Division), Coimbatore",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "supplier",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m005",
+      "thread": "t-xyzl-navrang-dispatch",
+      "days_ago": 0,
+      "time": "11:20",
+      "direction": "inbound",
+      "from": {
+        "name": "XYZ Logistics",
+        "email": "operations@xyzlogistics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Dispatch update - LR XL-55821 (Surat to Jaipur)",
+      "body": "Dear Sir,\n\nYour consignment has been picked up and is in transit.\n\nLR No: XL-55821\nConsignee: Navrang Fashions, Jaipur\nPackages: 14 bales\nVehicle: GJ-05-BX-4471\nExpected delivery: in 3 days\n\nTrack at our website using the LR number.\n\nXYZ Logistics, Surat Operations",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "logistics",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m006",
+      "thread": "t-silverline-payment",
+      "days_ago": 0,
+      "time": "11:45",
+      "direction": "inbound",
+      "from": {
+        "name": "Ananya Rao",
+        "email": "ananya@silverlineapparels.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Payment done - Invoice SF/2526/0412",
+      "body": "Hi Rakesh,\n\nThis is to inform you that we have released the payment against your invoice SF/2526/0412.\n\nAmount: Rs. 2,45,600\nMode: RTGS\nUTR: SBINR52025112345678\nDate: today\n\nPlease confirm receipt and update your ledger.\n\nThanks,\nAnanya Rao\nAccounts & Sourcing, Silverline Apparels, Bengaluru",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m007",
+      "thread": "t-colorchem-reminder",
+      "days_ago": 0,
+      "time": "12:10",
+      "direction": "inbound",
+      "from": {
+        "name": "Colorchem Dyes & Auxiliaries",
+        "email": "accounts@colorchemdyes.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Payment reminder: Invoice CDA/1187 overdue",
+      "body": "Dear Sir/Madam,\n\nAs per our records, the following invoice is overdue for payment:\n\nInvoice No: CDA/1187 dated 21 days ago\nMaterial: Reactive dyes (Red ME4BL, Yellow ME4GL) and soda ash\nAmount: Rs. 86,450 (including GST)\nDue date: 15 days overdue\n\nWe request you to kindly arrange the payment at the earliest. Supplies against new orders may be put\non hold if the outstanding is not cleared within 7 days.\n\nAccounts Department\nColorchem Dyes & Auxiliaries, Ankleshwar",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m008",
+      "thread": "t-meridian-canvas",
+      "days_ago": 0,
+      "time": "12:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Rohit Gupta",
+        "email": "rohit.gupta@meridianhome.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Enquiry - cotton canvas 280 GSM for cushion covers",
+      "body": "Dear Sir,\n\nWe are a home furnishing exporter based in Panipat. We need 100% cotton canvas, 280 GSM, 60\" width,\nnatural/greige, approximately 10,000 metres for a cushion cover programme.\n\nPlease share:\n1. Best price per metre\n2. Lead time for 10,000 m\n3. Whether you can do enzyme wash finish\n\nOur buyer is in Germany, so consistent quality is important.\n\nRegards,\nRohit Gupta\nMeridian Home Furnishings, Panipat",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m009",
+      "thread": "t-meridian-canvas",
+      "days_ago": 0,
+      "time": "15:20",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Rohit Gupta",
+          "email": "rohit.gupta@meridianhome.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Enquiry - cotton canvas 280 GSM for cushion covers",
+      "body": "Dear Rohit ji,\n\nThank you for your enquiry. Please find our offer below:\n\n- 100% cotton canvas, 280 GSM, 60\" greige: Rs. 168 per metre ex-mill Surat, GST 5% extra\n- Enzyme wash finish: Rs. 9 per metre extra\n- Lead time: 30-35 days for 10,000 m after PO and approval of lab dip/sample\n- Payment: 30% advance, balance against dispatch\n\nWe can send a 2-metre sample by courier this week for your buyer's approval.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m010",
+      "thread": "t-imran-schedule",
+      "days_ago": 0,
+      "time": "08:10",
+      "direction": "inbound",
+      "from": {
+        "name": "Imran Sheikh",
+        "email": "imran.production@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Production schedule this week + jet dyeing machine 2 maintenance",
+      "body": "Sir,\n\nProduction plan for this week:\n\n- Looms 1-24: Navrang cambric (PO 118) and Desai Uniforms PC shirting\n- Jet dyeing machine 2: planned maintenance on Thursday (full day), so dyeing capacity drops ~35%\n- Night shift: need approval for 2 extra operators for 6 days to keep Desai delivery on time\n\nPlease approve the overtime by tomorrow so I can inform the contractor.\n\nImran\nProduction Manager",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "internal",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m011",
+      "thread": "t-neha-qc2231",
+      "days_ago": 0,
+      "time": "13:05",
+      "direction": "inbound",
+      "from": {
+        "name": "Neha Joshi",
+        "email": "qc@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "QC report - Lot 2231 shade variation (Silverline complaint)",
+      "body": "Sir,\n\nWe re-checked the retained samples of Lot 2231 (Silverline Apparels) in the lab.\n\n- Shade variation between roll 7 and roll 12: Delta E 1.8 (our tolerance is 1.0)\n- Cause: dye bath temperature fluctuation on jet machine 2 during the second batch\n- About 640 m (rolls 7-12) is affected\n\nRecommendation: offer replacement of 640 m or a debit note. Please advise how you want to respond to\nthe customer.\n\nNeha Joshi, Quality Control",
+      "attachments": [
+        {
+          "filename": "Lot2231_QC_Report.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "internal",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m012",
+      "thread": "t-bank-credit",
+      "days_ago": 0,
+      "time": "14:02",
+      "direction": "inbound",
+      "from": {
+        "name": "Western Co-operative Bank Alerts",
+        "email": "alerts@westerncoopbank.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Credit alert: A/c XX4821 credited with INR 1,18,000.00",
+      "body": "Dear Customer,\n\nYour A/c XX4821 has been credited with INR 1,18,000.00 on today's date by NEFT.\nRemitter: LAKSHMI SAREES\nRef: NEFT-CHN-882301\n\nAvailable balance information is available in net banking.\nThis is a system generated alert. Please do not reply.\n\nWestern Co-operative Bank",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m013",
+      "thread": "t-desai-change",
+      "days_ago": 0,
+      "time": "15:45",
+      "direction": "inbound",
+      "from": {
+        "name": "Desai Uniforms",
+        "email": "orders@desaiuniforms.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Amendment to PO DU-2291 - quantity increase",
+      "body": "Dear Sir,\n\nFurther to our PO DU-2291 for PC 65/35 shirting (sky blue), please increase the quantity from\n2,000 m to 2,600 m. Rate and delivery date (5th of next month) remain the same.\n\nPlease confirm whether the additional 600 m can be supplied within the same delivery schedule.\n\nPurchase Department\nDesai Uniforms, Ahmedabad",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m014",
+      "thread": "t-news-weekly0",
+      "days_ago": 0,
+      "time": "07:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Textile Insights Weekly",
+        "email": "newsletter@textileinsights.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "This week: cotton prices firm up, polyester steady | Textile Insights Weekly",
+      "body": "In this issue:\n- Cotton prices firm up as arrivals slow in Gujarat and Maharashtra\n- Polyester yarn steady; viscose up Rs. 3/kg\n- Export outlook for home textiles in Europe\n- Interview: modernising weaving units with automation\n\nRead more on our website. Unsubscribe anytime.",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "other",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m015",
+      "thread": "t-seo-spam",
+      "days_ago": 0,
+      "time": "16:40",
+      "direction": "inbound",
+      "from": {
+        "name": "Rank1 Digital",
+        "email": "growth@rank1digital.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Get your textile business on Google's 1st page in 30 days!!",
+      "body": "Hello Business Owner,\n\nWe help manufacturers rank #1 on Google. 100% guaranteed results. Special Diwali offer: website +\nSEO package at just Rs. 9,999. Reply YES to get a free audit.\n\nTeam Rank1 Digital",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "other",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m016",
+      "thread": "t-om-po077",
+      "days_ago": 1,
+      "time": "10:05",
+      "direction": "inbound",
+      "from": {
+        "name": "Gurpreet Singh (Om Exports)",
+        "email": "gurpreet@omexports.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "PO OE/24-25/077 - PV suiting 2500 mtrs",
+      "body": "Dear Rakesh bhai,\n\nAs discussed on phone, please find our PO OE/24-25/077:\n\n- Quality: Poly-viscose 80/20 suiting, 210 GSM, 58\", charcoal grey\n- Quantity: 2,500 metres\n- Rate: Rs. 196 per metre + GST\n- Delivery: 20 days from PO, to Ludhiana\n\nWe will transfer 30% advance today. Please confirm the order.\n\nGurpreet Singh\nOm Exports, Ludhiana",
+      "attachments": [
+        {
+          "filename": "OE-PO-077.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m017",
+      "thread": "t-om-po077",
+      "days_ago": 1,
+      "time": "13:30",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Gurpreet Singh (Om Exports)",
+          "email": "gurpreet@omexports.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: PO OE/24-25/077 - PV suiting 2500 mtrs",
+      "body": "Dear Gurpreet ji,\n\nThank you for the order. We confirm PO OE/24-25/077 for 2,500 m PV suiting, charcoal grey, at\nRs. 196 per metre + GST. Dispatch will be within 20 days of receipt of advance.\n\nWe will share the lab dip for approval in 3 days.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m018",
+      "thread": "t-om-advance",
+      "days_ago": 1,
+      "time": "17:15",
+      "direction": "inbound",
+      "from": {
+        "name": "Gurpreet Singh (Om Exports)",
+        "email": "gurpreet@omexports.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Advance payment for PO 077",
+      "body": "Rakesh bhai,\n\n30% advance of Rs. 1,47,000 has been transferred by NEFT against PO OE/24-25/077.\nUTR: PUNBN2025111900452\n\nPlease check and confirm.\n\nGurpreet",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m019",
+      "thread": "t-narmada-dispatch",
+      "days_ago": 1,
+      "time": "09:20",
+      "direction": "inbound",
+      "from": {
+        "name": "Narmada Spinners",
+        "email": "dispatch@narmadaspinners.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Dispatch of 40 bags 30s cotton yarn - Invoice NS/2526/931",
+      "body": "Dear Sir,\n\nWe have dispatched your order of 40 bags (2,000 kg) of 30s combed cotton yarn today.\n\nInvoice: NS/2526/931\nTruck: GJ-16-AT-2290\nTransporter: Speedline Roadways\nExpected arrival: day after tomorrow\n\nInvoice copy attached.\n\nNarmada Spinners, Bharuch",
+      "attachments": [
+        {
+          "filename": "NS-2526-931.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "supplier",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m020",
+      "thread": "t-speedline-quote",
+      "days_ago": 1,
+      "time": "11:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Speedline Roadways",
+        "email": "booking@speedlineroadways.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Freight quotation - Surat to Delhi full truck load",
+      "body": "Dear Sir,\n\nAs requested, our freight rates for Surat to Delhi (Okhla) are:\n\n- 32 ft single axle (full truck, up to 7 MT): Rs. 38,000\n- 20 ft part load: Rs. 9 per kg (minimum 1,000 kg)\n- Transit time: 4-5 days\n\nRates valid for 15 days. Please confirm the loading date to block the vehicle.\n\nBooking Desk, Speedline Roadways",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "logistics",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m021",
+      "thread": "t-silverline-complaint",
+      "days_ago": 1,
+      "time": "12:40",
+      "direction": "inbound",
+      "from": {
+        "name": "Ananya Rao",
+        "email": "ananya@silverlineapparels.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Quality complaint - shade variation in Lot 2231",
+      "body": "Dear Rakesh,\n\nWe have received the fabric against our PO SLA/PO/556 (Lot 2231). During cutting our team found visible\nshade variation in rolls 7 to 12. Garments made from these rolls are being rejected by our buyer's\nQA.\n\nWe request a replacement of the affected quantity or a debit note at the earliest, as our shipment is\nscheduled for the 3rd of next month.\n\nPlease treat this as urgent.\n\nAnanya Rao\nSilverline Apparels",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m022",
+      "thread": "t-pooja-receivables",
+      "days_ago": 1,
+      "time": "18:05",
+      "direction": "inbound",
+      "from": {
+        "name": "Pooja Desai",
+        "email": "accounts@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Outstanding receivables as on date",
+      "body": "Sir,\n\nOutstanding receivables summary:\n\n- Navrang Fashions: Rs. 3,12,000 (Invoice SF/2526/0377, overdue 45 days)\n- Kaveri Garments: Rs. 1,96,400 (Invoice SF/2526/0390, due in 5 days)\n- Silverline Apparels: Rs. 2,45,600 (Invoice SF/2526/0412) - customer says paid today, not yet seen in bank\n- Lakshmi Sarees: Rs. 1,18,000 (Invoice SF/2526/0398, overdue 12 days)\n\nTotal: Rs. 8,72,000\n\nI will send reminders to Navrang and Lakshmi Sarees unless you want to speak to them directly.\n\nPooja, Accounts",
+      "attachments": [
+        {
+          "filename": "Receivables.xlsx",
+          "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "internal",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m023",
+      "thread": "t-xyzl-invoice",
+      "days_ago": 1,
+      "time": "15:10",
+      "direction": "inbound",
+      "from": {
+        "name": "XYZ Logistics Billing",
+        "email": "billing@xyzlogistics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Freight invoice XL/INV/7734 for October-November",
+      "body": "Dear Sir,\n\nPlease find attached our freight invoice XL/INV/7734 for 6 consignments.\n\nAmount: Rs. 14,750 (including GST)\nPayment terms: 15 days\n\nKindly arrange payment by the due date.\n\nBilling Team, XYZ Logistics",
+      "attachments": [
+        {
+          "filename": "XL-INV-7734.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m024",
+      "thread": "t-lakshmi-voile",
+      "days_ago": 1,
+      "time": "10:45",
+      "direction": "inbound",
+      "from": {
+        "name": "Lakshmi Sarees",
+        "email": "lakshmisarees.chennai@lakshmisarees.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Requirement - 60s cotton voile for saree fall/lining",
+      "body": "Vanakkam,\n\nWe need 60s cotton voile, 44\", white RFD, about 3,000 metres every month for saree lining.\nPlease send your best rate and whether you can supply on a monthly schedule.\n\nLakshmi Sarees, Chennai",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m025",
+      "thread": "t-lakshmi-voile",
+      "days_ago": 1,
+      "time": "16:30",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Lakshmi Sarees",
+          "email": "lakshmisarees.chennai@lakshmisarees.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Requirement - 60s cotton voile for saree fall/lining",
+      "body": "Dear Sir,\n\nThank you for the enquiry. 60s cotton voile, 44\" white RFD: Rs. 58 per metre + GST 5%.\nWe can supply 3,000 m per month on a fixed schedule with a 3-month rate contract.\n\nAlso, a gentle reminder that invoice SF/2526/0398 is pending; please arrange payment.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m026",
+      "thread": "t-tradeleads",
+      "days_ago": 1,
+      "time": "08:55",
+      "direction": "inbound",
+      "from": {
+        "name": "TradeLeads India",
+        "email": "buyleads@tradeleads.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "New BuyLead: Cotton fabric 2000 mtr required in Pune",
+      "body": "New buy requirement matching your products:\n\nProduct: Cotton fabric for shirts (plain dyed)\nQuantity: 2,000 metres\nLocation: Pune, Maharashtra\nBuyer: verified, contact available after purchase of lead credits\n\nRespond within 24 hours to improve your chances.\nTradeLeads India",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m027",
+      "thread": "t-expo",
+      "days_ago": 1,
+      "time": "12:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Surat Textile Expo 2027",
+        "email": "visitors@surattexexpo.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Register now: Surat Textile Expo 2027 - free visitor pass",
+      "body": "Dear Industry Member,\n\nSurat Textile Expo 2027 brings together 400+ exhibitors in weaving, processing and garmenting machinery.\nRegister now for a free visitor pass. Early-bird exhibitor stalls at 20% off until month end.",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "other",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m028",
+      "thread": "t-urban-swatch",
+      "days_ago": 2,
+      "time": "11:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Tanvi Kapoor",
+        "email": "tanvi@urbanthreadstudio.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Request for swatch cards - cotton & linen blends",
+      "body": "Hi,\n\nI run a small design studio in Bengaluru (Urban Thread Studio). We are looking for cotton and\ncotton-linen blend fabrics for a capsule collection, roughly 800-1,000 m per quality.\n\nCould you send swatch cards and a price list? Happy to pay for the courier.\n\nThanks,\nTanvi Kapoor",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m029",
+      "thread": "t-rainbow-cambric",
+      "days_ago": 3,
+      "time": "10:20",
+      "direction": "inbound",
+      "from": {
+        "name": "Priya Banerjee",
+        "email": "priya@rainbowkidswear.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Printed cotton cambric for kidswear - 6000 m",
+      "body": "Dear Sir,\n\nWe manufacture kidswear in Kolkata. We need printed cotton cambric, 92 GSM, 44\", 4 prints x 1,500 m.\nPlease quote your best price including printing, and the delivery time.\n\nRegards,\nPriya Banerjee, Rainbow Kids Wear",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m030",
+      "thread": "t-rainbow-cambric",
+      "days_ago": 3,
+      "time": "15:00",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Priya Banerjee",
+          "email": "priya@rainbowkidswear.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Printed cotton cambric for kidswear - 6000 m",
+      "body": "Dear Priya ji,\n\nPrinted cotton cambric 92 GSM, 44\": Rs. 82 per metre (up to 4 colours per design) + GST.\nDelivery: 25 days after artwork approval. Minimum 1,500 m per design.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m031",
+      "thread": "t-rainbow-cambric",
+      "days_ago": 2,
+      "time": "12:10",
+      "direction": "inbound",
+      "from": {
+        "name": "Priya Banerjee",
+        "email": "priya@rainbowkidswear.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "PO RKW/2025/31 - printed cambric (4 designs)",
+      "body": "Dear Sir,\n\nThank you for the quotation. Please find our PO RKW/2025/31 for 6,000 m printed cotton cambric\n(4 designs x 1,500 m) at Rs. 82 per metre + GST. Artwork files are attached.\n\nPlease confirm and share strike-offs for approval.\n\nPriya Banerjee",
+      "attachments": [
+        {
+          "filename": "RKW-PO-31.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        },
+        {
+          "filename": "Artwork_4_designs.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m032",
+      "thread": "t-rainbow-cambric",
+      "days_ago": 2,
+      "time": "16:45",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Priya Banerjee",
+          "email": "priya@rainbowkidswear.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: PO RKW/2025/31 - printed cambric (4 designs)",
+      "body": "Dear Priya ji,\n\nPO RKW/2025/31 is confirmed. Strike-offs will be couriered to you within 5 working days.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m033",
+      "thread": "t-pooja-approvals",
+      "days_ago": 2,
+      "time": "10:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Pooja Desai",
+        "email": "accounts@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Payment approvals needed this week",
+      "body": "Sir,\n\nPlease approve the following supplier payments:\n\n1. Colorchem Dyes - Invoice CDA/1187 - Rs. 86,450 (overdue)\n2. Narmada Spinners - Invoice NS/2526/905 - Rs. 4,82,300 (due on the 25th)\n3. XYZ Logistics - Invoice XL/INV/7690 - Rs. 11,200\n\nBank balance is sufficient for items 1 and 3. For Narmada we need the Navrang collection to come in.\n\nPooja",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "internal",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m034",
+      "thread": "t-kavita-esi",
+      "days_ago": 2,
+      "time": "09:15",
+      "direction": "inbound",
+      "from": {
+        "name": "Kavita Nair",
+        "email": "hr@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "PF & ESI contributions due on the 15th",
+      "body": "Sir,\n\nReminder that PF and ESI contributions for last month are due on the 15th.\nPF: Rs. 1,84,300 | ESI: Rs. 41,750\n\nChallans are ready; please approve so accounts can pay online.\n\nKavita, HR & Admin",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "internal",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m035",
+      "thread": "t-patelc-cancel",
+      "days_ago": 3,
+      "time": "11:10",
+      "direction": "inbound",
+      "from": {
+        "name": "Patel Creations",
+        "email": "patelcreations@patelcreations.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Cancellation of PO PC/112",
+      "body": "Dear Sir,\n\nWe regret to inform you that our buyer has cancelled the order. Hence we request you to cancel our\nPO PC/112 for 1,800 m slub cotton (mustard). If production has not started, please do not proceed.\n\nSorry for the inconvenience.\n\nPatel Creations, Surat",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m036",
+      "thread": "t-xyz-soa",
+      "days_ago": 3,
+      "time": "14:30",
+      "direction": "inbound",
+      "from": {
+        "name": "XYZ Suppliers Accounts",
+        "email": "accounts@xyzsuppliers.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Statement of account - outstanding Rs. 6,12,000",
+      "body": "Dear Sir,\n\nPlease find attached your statement of account. Outstanding balance as of today is Rs. 6,12,000,\nof which Rs. 2,40,000 is beyond the 60-day credit period (Invoice XYZ/YD/2231).\n\nKindly arrange to clear the overdue amount to avoid interruption in supplies.\n\nAccounts, XYZ Suppliers",
+      "attachments": [
+        {
+          "filename": "SOA_Suryodaya.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m037",
+      "thread": "t-speedline-ewaybill",
+      "days_ago": 3,
+      "time": "09:50",
+      "direction": "inbound",
+      "from": {
+        "name": "Speedline Roadways",
+        "email": "booking@speedlineroadways.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "E-way bill expiring - LR SR-10233",
+      "body": "Dear Sir,\n\nThe e-way bill for LR SR-10233 (consignee Desai Uniforms, Ahmedabad) expires tonight. The vehicle is\nheld at Vapi due to a breakdown. Please extend the e-way bill validity on the portal or share a\nfresh one so we can continue the movement tomorrow.\n\nSpeedline Roadways",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "logistics",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m038",
+      "thread": "t-suresh-plan",
+      "days_ago": 3,
+      "time": "08:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Suresh Patil",
+        "email": "dispatch@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Dispatch plan for this week",
+      "body": "Sir,\n\nDispatch plan:\n- Mon: Navrang Fashions, 14 bales (XYZ Logistics)\n- Wed: Kaveri Garments balance 1,200 m (courier + part load)\n- Fri: Desai Uniforms 2,000 m (Speedline), subject to e-way bill issue\n\nNeed confirmation from accounts for Navrang because of the overdue payment.\n\nSuresh, Dispatch",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "internal",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m039",
+      "thread": "t-loan-spam",
+      "days_ago": 3,
+      "time": "13:13",
+      "direction": "inbound",
+      "from": {
+        "name": "QuickBiz Loans",
+        "email": "offers@quickbizloans.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-approved business loan up to Rs. 50 lakh - no collateral",
+      "body": "Congratulations! Your business is pre-approved for a loan of up to Rs. 50,00,000. Minimal documents,\ndisbursal in 48 hours. Click to check eligibility.",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "other",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m040",
+      "thread": "t-abc-po7781",
+      "days_ago": 4,
+      "time": "10:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Vikram Malhotra (ABC Textiles)",
+        "email": "purchase@abctextiles.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Dispatch status - PO ABC/PO/7781",
+      "body": "Dear Sir,\n\nPlease update the dispatch status of our PO ABC/PO/7781 (4,000 m cotton twill). The delivery date was\ncommitted as the 20th and we have not received any dispatch details yet. Our stitching unit is waiting.\n\nPlease reply urgently with the expected date.\n\nVikram Malhotra\nABC Textiles",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m041",
+      "thread": "t-global-export",
+      "days_ago": 4,
+      "time": "13:45",
+      "direction": "inbound",
+      "from": {
+        "name": "Faisal Rahman",
+        "email": "faisal@globallinentraders.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Export enquiry - cotton poplin for UAE market",
+      "body": "Dear Sir,\n\nWe are importers and wholesalers of fabrics in Dubai. Kindly quote FOB Nhava Sheva prices in USD for:\n\n- 100% cotton poplin 40x40 / 133x72, 58\", white and 10 solid colours\n- Quantity: 1 x 20 ft container per month (approx 25,000 m)\n\nPlease also share your export experience and payment terms (LC at sight acceptable).\n\nFaisal Rahman\nGlobal Linen Traders LLC, Dubai",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m042",
+      "thread": "t-patelpack-delay",
+      "days_ago": 4,
+      "time": "12:20",
+      "direction": "inbound",
+      "from": {
+        "name": "Patel Packaging",
+        "email": "info@patelpackaging.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Delay in supply of HDPE bags and cartons",
+      "body": "Dear Sir,\n\nDue to a power outage at our plant, the supply of 2,000 HDPE bags and 300 printed cartons will be delayed\nby 4 days. We regret the inconvenience.\n\nPatel Packaging",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "supplier",
+        "priority": "medium",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m043",
+      "thread": "t-bluewave",
+      "days_ago": 4,
+      "time": "16:00",
+      "direction": "inbound",
+      "from": {
+        "name": "BlueWave Freight Forwarders",
+        "email": "exports@bluewavefreight.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Ocean freight quote - Nhava Sheva to Jebel Ali",
+      "body": "Dear Sir,\n\nFurther to your call, our rates for a 20 ft container Nhava Sheva to Jebel Ali:\n- Ocean freight: USD 450 per container\n- Local charges (THC, documentation, CHA): Rs. 18,500\n- Transit: 5-6 days\n\nValid till the end of this month.\n\nBlueWave Freight Forwarders, Mumbai",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "logistics",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m044",
+      "thread": "t-navrang-promise",
+      "days_ago": 5,
+      "time": "11:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Navrang Fashions Accounts",
+        "email": "accounts@navrangfashions.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Payment of invoice SF/2526/0377",
+      "body": "Dear Sir,\n\nWe acknowledge your invoice SF/2526/0377 for Rs. 3,12,000. Due to delayed collections from our retail\npartners, we will clear the payment by the 30th of this month.\n\nRequest you to continue dispatching the new PO.\n\nAccounts, Navrang Fashions",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m045",
+      "thread": "t-speedline-delay",
+      "days_ago": 5,
+      "time": "09:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Speedline Roadways",
+        "email": "booking@speedlineroadways.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Delay in delivery - LR SR-10233 (Desai Uniforms)",
+      "body": "Dear Sir,\n\nVehicle GJ-15-UU-8812 carrying LR SR-10233 for Desai Uniforms has broken down near Vapi.\nA replacement vehicle has been arranged. Revised ETA at Ahmedabad: 2 days.\n\nPlease inform the consignee.\n\nSpeedline Roadways",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "logistics",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m046",
+      "thread": "t-shubh-enq",
+      "days_ago": 6,
+      "time": "10:10",
+      "direction": "inbound",
+      "from": {
+        "name": "Shubh Laxmi Handloom",
+        "email": "shubhlaxmi.handloom@shubhlaxmi.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Small quantity requirement - 500 m cotton cambric",
+      "body": "Namaste,\n\nWe need 500 metres of cotton cambric RFD for block printing. Can you supply such a small quantity?\nPlease share rate.\n\nShubh Laxmi Handloom, Jaipur",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "low",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m047",
+      "thread": "t-shubh-enq",
+      "days_ago": 5,
+      "time": "12:00",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Shubh Laxmi Handloom",
+          "email": "shubhlaxmi.handloom@shubhlaxmi.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Small quantity requirement - 500 m cotton cambric",
+      "body": "Namaste,\n\nYes, we can supply 500 m of cotton cambric RFD from ready stock at Rs. 78 per metre + GST.\nDispatch within 3 days of payment.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m048",
+      "thread": "t-sunrise-bedsheet",
+      "days_ago": 6,
+      "time": "15:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Sunrise Hospital Linen Supplies",
+        "email": "procurement@sunriselinen.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Requirement: 120 inch bedsheet fabric for hospitals",
+      "body": "Dear Sir,\n\nWe supply linen to hospitals in Gujarat and Maharashtra. We require 100% cotton bedsheet fabric,\n120\" width, 144 TC, white, approximately 12,000 metres. Fabric must withstand industrial laundering\n(hospital grade).\n\nPlease quote with delivery schedule. This is for a government hospital tender closing in 10 days, so\nplease respond quickly.\n\nProcurement, Sunrise Hospital Linen Supplies, Vadodara",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m049",
+      "thread": "t-imran-loom14",
+      "days_ago": 6,
+      "time": "07:50",
+      "direction": "inbound",
+      "from": {
+        "name": "Imran Sheikh",
+        "email": "imran.production@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Loom 14 breakdown - spare required urgently",
+      "body": "Sir,\n\nRapier loom 14 is down since the night shift - the gripper drive gear has broken. Spare is not in stock.\nShree Textile Machinery Spares can supply in 2 days. Cost approx Rs. 23,000. Please approve.\n\nImran",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "internal",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m050",
+      "thread": "t-spares-quote",
+      "days_ago": 6,
+      "time": "14:10",
+      "direction": "inbound",
+      "from": {
+        "name": "Shree Textile Machinery Spares",
+        "email": "sales@shreetexspares.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Quotation - gripper drive gear for rapier loom",
+      "body": "Dear Sir,\n\nQuotation for gripper drive gear assembly (compatible with your rapier loom model): Rs. 21,800 + GST 18%.\nDelivery: 2 days from order. Installation by our technician: Rs. 1,500.\n\nShree Textile Machinery Spares, Surat",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "supplier",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m051",
+      "thread": "t-navrang-reminder",
+      "days_ago": 6,
+      "time": "11:30",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Navrang Fashions Accounts",
+          "email": "accounts@navrangfashions.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Payment reminder - Invoice SF/2526/0377 (overdue 40 days)",
+      "body": "Dear Sir,\n\nThis is a reminder that our invoice SF/2526/0377 for Rs. 3,12,000 is overdue by 40 days.\nKindly arrange payment at the earliest. Further dispatches may be held as per our credit policy.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m052",
+      "thread": "t-ca-gstr1",
+      "days_ago": 7,
+      "time": "10:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Joshi & Associates, Chartered Accountants",
+        "email": "gst@joshiassociates.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "GSTR-1 due on the 11th - documents pending",
+      "body": "Dear Rakesh ji,\n\nGSTR-1 for last month is due on the 11th. We have not yet received the sales register and credit notes.\nPlease share them by the 9th to avoid late fees.\n\nAlso, the e-invoice for the Silverline credit note needs to be generated.\n\nJoshi & Associates, Chartered Accountants",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m053",
+      "thread": "t-krishna-po",
+      "days_ago": 7,
+      "time": "12:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Krishna Uniform House",
+        "email": "krishnauniform@krishnauniform.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "PO KUH/45 - PC shirting for school uniforms",
+      "body": "Dear Sir,\n\nFurther to your quotation, please book our order KUH/45 for 3,500 m PC 65/35 shirting, white,\nat Rs. 88 per metre + GST. Delivery required by the 28th for the school session.\n\nKrishna Uniform House, Nagpur",
+      "attachments": [
+        {
+          "filename": "KUH-45.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m054",
+      "thread": "t-krishna-po",
+      "days_ago": 7,
+      "time": "17:00",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Krishna Uniform House",
+          "email": "krishnauniform@krishnauniform.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: PO KUH/45 - PC shirting for school uniforms",
+      "body": "Dear Sir,\n\nOrder KUH/45 for 3,500 m PC shirting white at Rs. 88 + GST is confirmed. Delivery by the 26th.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m055",
+      "thread": "t-erp-sales",
+      "days_ago": 7,
+      "time": "09:30",
+      "direction": "inbound",
+      "from": {
+        "name": "WeaveERP",
+        "email": "hello@weaveerp.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "WeaveERP - track every loom, every metre. Book a demo",
+      "body": "Hi Rakesh,\n\nTextile mills using WeaveERP have cut inventory losses by 18%. See how loom-wise production, yarn\nstock and GST billing work together. Book a free 30-minute demo this week.\n\nTeam WeaveERP",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "other",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m056",
+      "thread": "t-pronet",
+      "days_ago": 5,
+      "time": "20:15",
+      "direction": "inbound",
+      "from": {
+        "name": "ProNetwork",
+        "email": "notifications@pronetwork.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "You appeared in 12 searches this week",
+      "body": "Your profile appeared in 12 searches this week. See who's looking at your profile and grow your network.",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "other",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m057",
+      "thread": "t-vastra-organic",
+      "days_ago": 8,
+      "time": "11:15",
+      "direction": "inbound",
+      "from": {
+        "name": "Meera Iyer",
+        "email": "meera.iyer@vastraretail.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Enquiry: GOTS certified organic cotton fabric",
+      "body": "Dear Sir/Madam,\n\nVastra Retail is sourcing GOTS-certified organic cotton poplin and voile for our sustainable line,\nabout 4,000 m per quality per season.\n\nAre you GOTS certified? If yes, please share the scope certificate, prices and lead time.\n\nMeera Iyer\nSourcing Manager, Vastra Retail Pvt. Ltd., Mumbai",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m058",
+      "thread": "t-kaveri-debit",
+      "days_ago": 8,
+      "time": "15:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Senthil Kumar",
+        "email": "sourcing@kaverigarments.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Debit note - short quantity in Invoice SF/2526/0390",
+      "body": "Dear Sir,\n\nOn receipt of goods against invoice SF/2526/0390, we found 120 m short (2 rolls under-length).\nWe are raising a debit note for Rs. 21,600 and will deduct it from the payment.\n\nPlease acknowledge.\n\nSenthil Kumar, Kaveri Garments",
+      "attachments": [
+        {
+          "filename": "DebitNote_KG_118.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m059",
+      "thread": "t-xyzl-pod-abc",
+      "days_ago": 8,
+      "time": "17:20",
+      "direction": "inbound",
+      "from": {
+        "name": "XYZ Logistics",
+        "email": "operations@xyzlogistics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Proof of delivery - LR XL-55102 (ABC Textiles, Bhiwandi)",
+      "body": "Dear Sir,\n\nConsignment LR XL-55102 (10 bales) has been delivered to ABC Textiles, Bhiwandi. POD signed by\nthe receiver is attached.\n\nXYZ Logistics",
+      "attachments": [
+        {
+          "filename": "POD_XL-55102.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "logistics",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m060",
+      "thread": "t-narmada-invoice",
+      "days_ago": 9,
+      "time": "10:40",
+      "direction": "inbound",
+      "from": {
+        "name": "Narmada Spinners Accounts",
+        "email": "accounts@narmadaspinners.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Invoice NS/2526/905 - 40s combed yarn",
+      "body": "Dear Sir,\n\nPlease find attached invoice NS/2526/905 for 1,700 kg 40s combed cotton yarn.\nAmount: Rs. 4,82,300 (incl. GST). Due date: 30 days from invoice.\n\nNarmada Spinners",
+      "attachments": [
+        {
+          "filename": "NS-2526-905.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "medium",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m061",
+      "thread": "t-xyz-cotton",
+      "days_ago": 9,
+      "time": "12:15",
+      "direction": "inbound",
+      "from": {
+        "name": "XYZ Suppliers (Yarn Division)",
+        "email": "sales@xyzsuppliers.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Cotton market update - book your yarn now",
+      "body": "Dear Customer,\n\nCotton arrivals are lower than last year and prices may rise further next month. We suggest booking\nyour yarn requirement for the next 2 months now. Contact our sales team for booking.\n\nXYZ Suppliers",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "supplier",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m062",
+      "thread": "t-krishna-enq",
+      "days_ago": 9,
+      "time": "09:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Krishna Uniform House",
+        "email": "krishnauniform@krishnauniform.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Rate enquiry - PC 65/35 white shirting",
+      "body": "Dear Sir,\n\nPlease send your rate for PC 65/35 white shirting, 58\", for 3,000-4,000 m. Required for school uniforms.\n\nKrishna Uniform House, Nagpur",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m063",
+      "thread": "t-krishna-enq",
+      "days_ago": 9,
+      "time": "13:00",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Krishna Uniform House",
+          "email": "krishnauniform@krishnauniform.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Rate enquiry - PC 65/35 white shirting",
+      "body": "Dear Sir,\n\nPC 65/35 white shirting, 58\": Rs. 88 per metre + GST 5%. Delivery 15-18 days.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m064",
+      "thread": "t-power-bill",
+      "days_ago": 10,
+      "time": "08:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Surat Power Distribution Ltd",
+        "email": "ebill@suratpower.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Electricity bill for consumer no. 51207733 - due date in 10 days",
+      "body": "Dear Consumer,\n\nYour electricity bill for consumer number 51207733 (HT industrial) has been generated.\nAmount payable: Rs. 3,48,920\nDue date: 10 days from bill date. Pay before the due date to avail prompt payment rebate.\n\nSurat Power Distribution Ltd",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m065",
+      "thread": "t-ahmed-enq",
+      "days_ago": 10,
+      "time": "11:50",
+      "direction": "inbound",
+      "from": {
+        "name": "Ahmed Embroidery Works",
+        "email": "ahmedembroidery@ahmedworks.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Do you make cotton fabric suitable for embroidery?",
+      "body": "Salaam,\n\nWe do Chikankari-style embroidery work. Need soft cotton cambric/mulmul, 1,000 m per month.\nDo you make it? Please send rate.\n\nAhmed Embroidery Works, Lucknow",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "low",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m066",
+      "thread": "t-ahmed-enq",
+      "days_ago": 10,
+      "time": "16:20",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Ahmed Embroidery Works",
+          "email": "ahmedembroidery@ahmedworks.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Do you make cotton fabric suitable for embroidery?",
+      "body": "Dear Sir,\n\nYes, our 60s cotton cambric is suitable for embroidery. Rate: Rs. 76 per metre + GST.\nWe will courier a sample.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m067",
+      "thread": "t-narmada-strike",
+      "days_ago": 11,
+      "time": "10:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Narmada Spinners",
+        "email": "dispatch@narmadaspinners.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Delay in yarn supply due to transport strike",
+      "body": "Dear Sir,\n\nDue to the ongoing transporters' strike in Bharuch district, dispatch of your order (40 bags 30s yarn)\nwill be delayed by about 5-6 days. We will dispatch as soon as vehicles are available.\n\nNarmada Spinners",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "supplier",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m068",
+      "thread": "t-desai-po",
+      "days_ago": 11,
+      "time": "12:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Desai Uniforms",
+        "email": "orders@desaiuniforms.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "PO DU-2291 - PC 65/35 shirting sky blue",
+      "body": "Dear Sir,\n\nPlease find our PO DU-2291 for 2,000 m PC 65/35 shirting, sky blue, 58\", at Rs. 92 per metre + GST.\nDelivery: 5th of next month at our Ahmedabad factory.\n\nDesai Uniforms",
+      "attachments": [
+        {
+          "filename": "DU-2291.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m069",
+      "thread": "t-desai-po",
+      "days_ago": 11,
+      "time": "15:10",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Desai Uniforms",
+          "email": "orders@desaiuniforms.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: PO DU-2291 - PC 65/35 shirting sky blue",
+      "body": "Dear Sir,\n\nPO DU-2291 is confirmed. Shade approval sample will reach you in 3 days.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m070",
+      "thread": "t-abc-po7781",
+      "days_ago": 12,
+      "time": "11:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Vikram Malhotra (ABC Textiles)",
+        "email": "purchase@abctextiles.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "PO ABC/PO/7781 - cotton twill 4000 mtrs",
+      "body": "Dear Sir,\n\nFurther to your quotation, please find our PO ABC/PO/7781:\n\n- Cotton twill 2/1, 20s x 16s, 108 x 56, 58\", khaki\n- 4,000 metres @ Rs. 118 per metre + GST\n- Delivery by the 20th at Bhiwandi\n\nVikram Malhotra, ABC Textiles",
+      "attachments": [
+        {
+          "filename": "ABC-PO-7781.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m071",
+      "thread": "t-abc-po7781",
+      "days_ago": 12,
+      "time": "14:30",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Vikram Malhotra (ABC Textiles)",
+          "email": "purchase@abctextiles.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: PO ABC/PO/7781 - cotton twill 4000 mtrs",
+      "body": "Dear Vikram ji,\n\nWe confirm your PO ABC/PO/7781 for 4,000 m cotton twill khaki at Rs. 118 + GST, delivery by the 20th.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m072",
+      "thread": "t-kavita-holiday",
+      "days_ago": 12,
+      "time": "09:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Kavita Nair",
+        "email": "hr@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Holiday notice - Guru Nanak Jayanti",
+      "body": "Sir,\n\nDraft notice: the factory will remain closed on Guru Nanak Jayanti. Production loss will be covered on\nthe following Sunday. Please approve so I can put it on the notice board.\n\nKavita",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "internal",
+        "priority": "low",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m073",
+      "thread": "t-colorchem-quote",
+      "days_ago": 13,
+      "time": "10:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Colorchem Dyes Sales",
+        "email": "sales@colorchemdyes.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Quotation - reactive dyes (ME series)",
+      "body": "Dear Sir,\n\nOur current prices:\n- Reactive Red ME4BL: Rs. 640/kg\n- Reactive Yellow ME4GL: Rs. 590/kg\n- Reactive Navy Blue: Rs. 710/kg\nPayment: 30 days. Delivery: 2 days.\n\nColorchem Dyes & Auxiliaries",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "supplier",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m074",
+      "thread": "t-abc-quote1",
+      "days_ago": 14,
+      "time": "10:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Vikram Malhotra (ABC Textiles)",
+        "email": "purchase@abctextiles.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Rate enquiry - cotton twill khaki 4000 m",
+      "body": "Dear Sir,\n\nPlease quote for cotton twill 2/1, 20s x 16s, 58\", khaki, 4,000 metres. Delivery Bhiwandi.\n\nVikram Malhotra, ABC Textiles",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m075",
+      "thread": "t-abc-quote1",
+      "days_ago": 14,
+      "time": "13:40",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Vikram Malhotra (ABC Textiles)",
+          "email": "purchase@abctextiles.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Rate enquiry - cotton twill khaki 4000 m",
+      "body": "Dear Vikram ji,\n\nCotton twill 2/1, 20s x 16s, 108 x 56, 58\" khaki: Rs. 118 per metre + GST 5%. Delivery 20 days.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m076",
+      "thread": "t-news-weekly14",
+      "days_ago": 14,
+      "time": "07:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Textile Insights Weekly",
+        "email": "newsletter@textileinsights.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Viscose prices up; MSME credit scheme extended | Textile Insights Weekly",
+      "body": "This week: viscose staple fibre prices up; MSME credit guarantee scheme extended; tips to reduce\npower cost in processing houses.",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "other",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m077",
+      "thread": "t-xyz-po",
+      "days_ago": 15,
+      "time": "11:00",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "XYZ Suppliers (Yarn Division)",
+          "email": "sales@xyzsuppliers.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Purchase order - 30s and 40s combed yarn",
+      "body": "Dear Sir,\n\nPlease supply:\n- 30s combed cotton yarn: 2,500 kg @ Rs. 256/kg\n- 40s combed cotton yarn: 1,500 kg @ Rs. 278/kg\nDelivery: within 7 days at Sachin GIDC.\n\nOur PO SF/YPO/2526/044 is attached.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m078",
+      "thread": "t-xyz-po",
+      "days_ago": 16,
+      "time": "10:00",
+      "direction": "inbound",
+      "from": {
+        "name": "XYZ Suppliers (Yarn Division)",
+        "email": "sales@xyzsuppliers.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Quotation - 30s and 40s combed cotton yarn",
+      "body": "Dear Sir,\n\nOur rates: 30s combed Rs. 256/kg, 40s combed Rs. 278/kg, ex-Coimbatore, freight extra.\nMinimum order 1,000 kg per count.\n\nXYZ Suppliers",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "supplier",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m079",
+      "thread": "t-xyzl-pickup",
+      "days_ago": 15,
+      "time": "16:00",
+      "direction": "inbound",
+      "from": {
+        "name": "XYZ Logistics",
+        "email": "operations@xyzlogistics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Pickup scheduled - Kaveri Garments order",
+      "body": "Dear Sir,\n\nPickup for Kaveri Garments (Tiruppur) is scheduled tomorrow at 10 AM. Please keep the invoice and\ne-way bill ready. 18 bales expected.\n\nXYZ Logistics",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "logistics",
+        "priority": "medium",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m080",
+      "thread": "t-lakshmi-sample",
+      "days_ago": 15,
+      "time": "12:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Lakshmi Sarees",
+        "email": "lakshmisarees.chennai@lakshmisarees.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Sample approved - please proceed",
+      "body": "Dear Sir,\n\nThe cotton voile sample is approved. Please proceed with 2,000 m as per our earlier order and dispatch\nat the earliest.\n\nLakshmi Sarees, Chennai",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m081",
+      "thread": "t-kaveri-po",
+      "days_ago": 18,
+      "time": "11:20",
+      "direction": "inbound",
+      "from": {
+        "name": "Senthil Kumar",
+        "email": "sourcing@kaverigarments.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "PO KG-0457 - cotton poplin printed 5000 m",
+      "body": "Dear Sir,\n\nPlease find PO KG-0457 for 5,000 m cotton poplin printed (2 designs) at Rs. 96 per metre + GST.\nDelivery within 25 days.\n\nSenthil Kumar, Kaveri Garments",
+      "attachments": [
+        {
+          "filename": "KG-0457.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m082",
+      "thread": "t-kaveri-po",
+      "days_ago": 18,
+      "time": "15:45",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Senthil Kumar",
+          "email": "sourcing@kaverigarments.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: PO KG-0457 - cotton poplin printed 5000 m",
+      "body": "Dear Senthil ji,\n\nPO KG-0457 confirmed. Strike-offs will reach you in 4 days.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m083",
+      "thread": "t-kaveri-enq",
+      "days_ago": 20,
+      "time": "10:10",
+      "direction": "inbound",
+      "from": {
+        "name": "Senthil Kumar",
+        "email": "sourcing@kaverigarments.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Enquiry - printed cotton poplin",
+      "body": "Hello,\n\nPlease share your rates for printed cotton poplin, 40s, 58\", 2 designs x 2,500 m.\n\nKaveri Garments, Tiruppur",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m084",
+      "thread": "t-kaveri-enq",
+      "days_ago": 20,
+      "time": "14:00",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Senthil Kumar",
+          "email": "sourcing@kaverigarments.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Enquiry - printed cotton poplin",
+      "body": "Dear Sir,\n\nPrinted cotton poplin 40s, 58\": Rs. 96 per metre + GST. MOQ 2,500 m per design.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m085",
+      "thread": "t-imran-monthly",
+      "days_ago": 20,
+      "time": "18:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Imran Sheikh",
+        "email": "imran.production@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Monthly production summary",
+      "body": "Sir,\n\nLast month: 4,12,000 m woven (target 4,30,000), loom efficiency 86%, 2 major breakdowns.\nDyeing: 3,65,000 m processed, rework 2.1%. Detailed sheet attached.\n\nImran",
+      "attachments": [
+        {
+          "filename": "Production_Summary.xlsx",
+          "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "internal",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m086",
+      "thread": "t-gujchem",
+      "days_ago": 22,
+      "time": "11:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Gujarat Chemicals & Auxiliaries",
+        "email": "sales@gujchemaux.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "New price list - softeners & finishing chemicals",
+      "body": "Dear Sir,\n\nPlease find attached our revised price list for silicone softeners and finishing chemicals,\neffective from next month. Silicone macro emulsion: Rs. 185/kg.\n\nGujarat Chemicals & Auxiliaries",
+      "attachments": [
+        {
+          "filename": "PriceList_GCA.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "supplier",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m087",
+      "thread": "t-navrang-short",
+      "days_ago": 22,
+      "time": "15:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Navrang Fashions Purchase",
+        "email": "po@navrangfashions.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Short receipt - 2 bales missing in LR XL-54880",
+      "body": "Dear Sir,\n\nWe received 12 bales against LR XL-54880, while the invoice shows 14 bales. Please check with the\ntransporter and confirm whether the remaining 2 bales are in transit.\n\nNavrang Fashions",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "logistics",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m088",
+      "thread": "t-navrang-short",
+      "days_ago": 22,
+      "time": "17:40",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Navrang Fashions Purchase",
+          "email": "po@navrangfashions.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Short receipt - 2 bales missing in LR XL-54880",
+      "body": "Dear Sir,\n\nWe have checked with XYZ Logistics. The 2 bales were left at their Ahmedabad hub and will reach you\ntomorrow. Sorry for the inconvenience.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m089",
+      "thread": "t-boiler",
+      "days_ago": 24,
+      "time": "10:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Akash Boiler Services",
+        "email": "service@akashboiler.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Annual boiler inspection due",
+      "body": "Dear Sir,\n\nThe annual statutory inspection of your boiler (Reg. No. GJ-4471) is due next month. Please confirm a\ndate for our engineer's visit and the boiler inspector's appointment.\n\nAkash Boiler Services",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "supplier",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m090",
+      "thread": "t-navrang-po102",
+      "days_ago": 25,
+      "time": "11:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Navrang Fashions Purchase",
+        "email": "po@navrangfashions.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "PO NF/PO/2526/102 - cotton cambric 2800 m",
+      "body": "Dear Sir,\n\nPlease supply 2,800 m cotton cambric 60s, 44\" RFD at Rs. 74.50 per metre against PO NF/PO/2526/102.\n\nNavrang Fashions",
+      "attachments": [
+        {
+          "filename": "NF-PO-2526-102.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m091",
+      "thread": "t-navrang-po102",
+      "days_ago": 25,
+      "time": "14:20",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Navrang Fashions Purchase",
+          "email": "po@navrangfashions.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: PO NF/PO/2526/102 - cotton cambric 2800 m",
+      "body": "Dear Sir,\n\nPO NF/PO/2526/102 confirmed. Dispatch in about 3 weeks.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m092",
+      "thread": "t-news-weekly28",
+      "days_ago": 28,
+      "time": "07:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Textile Insights Weekly",
+        "email": "newsletter@textileinsights.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Festive demand lifts fabric markets | Textile Insights Weekly",
+      "body": "This week: festive season demand lifts Surat and Bhiwandi fabric markets; yarn prices stable.",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "other",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m093",
+      "thread": "t-kavita-safety",
+      "days_ago": 27,
+      "time": "10:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Kavita Nair",
+        "email": "hr@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Fire safety drill on Saturday",
+      "body": "Sir,\n\nFire safety drill is scheduled for Saturday at 11 AM with the fire department. All shift supervisors\nare informed.\n\nKavita",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "internal",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m094",
+      "thread": "t-silverline-po556",
+      "days_ago": 29,
+      "time": "12:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Ananya Rao",
+        "email": "ananya@silverlineapparels.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "PO SLA/PO/556 - cotton dobby 3000 m",
+      "body": "Dear Rakesh,\n\nPlease find PO SLA/PO/556 for 3,000 m cotton dobby, navy, 58\", at Rs. 112 per metre + GST.\n\nAnanya Rao, Silverline Apparels",
+      "attachments": [
+        {
+          "filename": "SLA-PO-556.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m095",
+      "thread": "t-silverline-po556",
+      "days_ago": 29,
+      "time": "16:00",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Ananya Rao",
+          "email": "ananya@silverlineapparels.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: PO SLA/PO/556 - cotton dobby 3000 m",
+      "body": "Dear Ananya,\n\nOrder SLA/PO/556 confirmed. Lot 2231 is planned for this order.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m096",
+      "thread": "t-global-export",
+      "days_ago": 1,
+      "time": "12:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Faisal Rahman",
+        "email": "faisal@globallinentraders.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Export enquiry - cotton poplin for UAE market",
+      "body": "Dear Sir,\n\nFollowing up on our enquiry for cotton poplin (1 x 20 ft container per month). We have not received\nyour offer yet. Our buyer meeting is next week, so please send FOB prices at the earliest.\n\nFaisal Rahman, Global Linen Traders LLC",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m097",
+      "thread": "t-imran-yarnstock",
+      "days_ago": 4,
+      "time": "08:20",
+      "direction": "inbound",
+      "from": {
+        "name": "Imran Sheikh",
+        "email": "imran.production@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "40s yarn stock low - only 3 days left",
+      "body": "Sir,\n\n40s combed yarn stock is down to about 900 kg, enough for 3 days on the poplin looms. Narmada's\nconsignment is delayed. Shall I ask XYZ Suppliers for an urgent 1,000 kg?\n\nImran",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "internal",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m098",
+      "thread": "t-imran-yarnstock",
+      "days_ago": 4,
+      "time": "09:10",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Imran Sheikh",
+          "email": "imran.production@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 40s yarn stock low - only 3 days left",
+      "body": "Imran, yes - I am calling XYZ Suppliers now for 1,000 kg 40s. Shift the poplin looms to twill if it\ndoes not arrive by Thursday.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m099",
+      "thread": "t-kaveri-expedite",
+      "days_ago": 5,
+      "time": "10:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Senthil Kumar",
+        "email": "sourcing@kaverigarments.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Please expedite PO KG-0457",
+      "body": "Dear Sir,\n\nOur export shipment has been preponed by one week. Can you dispatch PO KG-0457 by the 22nd instead\nof the 28th? Please confirm urgently.\n\nSenthil Kumar",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "high",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m100",
+      "thread": "t-kaveri-expedite",
+      "days_ago": 5,
+      "time": "14:50",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Senthil Kumar",
+          "email": "sourcing@kaverigarments.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Please expedite PO KG-0457",
+      "body": "Dear Senthil ji,\n\nWe will dispatch 3,800 m by the 22nd and the balance 1,200 m by the 26th. Full quantity by the 22nd is\nnot possible because of the printing schedule.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m101",
+      "thread": "t-lakshmi-promise",
+      "days_ago": 4,
+      "time": "11:40",
+      "direction": "inbound",
+      "from": {
+        "name": "Lakshmi Sarees",
+        "email": "lakshmisarees.chennai@lakshmisarees.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pending invoice SF/2526/0398",
+      "body": "Dear Sir,\n\nSorry for the delay. Payment for invoice SF/2526/0398 (Rs. 1,18,000) will be made this week.\n\nLakshmi Sarees",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "medium",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m102",
+      "thread": "t-bank-debit",
+      "days_ago": 2,
+      "time": "15:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Western Co-operative Bank Alerts",
+        "email": "alerts@westerncoopbank.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Debit alert: A/c XX4821 debited with INR 2,40,000.00",
+      "body": "Dear Customer,\n\nYour A/c XX4821 has been debited with INR 2,40,000.00 by RTGS.\nBeneficiary: XYZ SUPPLIERS\nRef: RTGS-UTR WCBR52025111700981\n\nWestern Co-operative Bank",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m103",
+      "thread": "t-speedline-placement",
+      "days_ago": 6,
+      "time": "17:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Speedline Roadways",
+        "email": "booking@speedlineroadways.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Vehicle placement - Desai Uniforms consignment",
+      "body": "Dear Sir,\n\nVehicle GJ-15-UU-8812 will be placed at your factory tomorrow at 9 AM for loading the Desai Uniforms\nconsignment (LR SR-10233). Please keep documents ready.\n\nSpeedline Roadways",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "logistics",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m104",
+      "thread": "t-desai-shade",
+      "days_ago": 8,
+      "time": "12:45",
+      "direction": "inbound",
+      "from": {
+        "name": "Desai Uniforms",
+        "email": "orders@desaiuniforms.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Shade approved - PO DU-2291",
+      "body": "Dear Sir,\n\nThe sky blue shade sample for PO DU-2291 is approved. Please proceed with bulk production.\n\nDesai Uniforms",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "order",
+        "priority": "medium",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m105",
+      "thread": "t-pooja-gst",
+      "days_ago": 8,
+      "time": "18:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Pooja Desai",
+        "email": "accounts@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "GST payment for last month",
+      "body": "Sir,\n\nGST liability for last month after ITC: Rs. 1,12,480. Challan is generated; payment due by the 20th.\nPlease approve.\n\nPooja",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "internal",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m106",
+      "thread": "t-sms-spam",
+      "days_ago": 9,
+      "time": "14:00",
+      "direction": "inbound",
+      "from": {
+        "name": "BulkSMS Pro",
+        "email": "sales@bulksmspro.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Send 1 lakh promotional SMS at 9 paise!",
+      "body": "Reach 1 lakh customers instantly. Bulk SMS at 9 paise per SMS. Offer valid today only.",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "other",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m107",
+      "thread": "t-xyz-dispatch",
+      "days_ago": 10,
+      "time": "15:00",
+      "direction": "inbound",
+      "from": {
+        "name": "XYZ Suppliers (Yarn Division)",
+        "email": "sales@xyzsuppliers.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Dispatch details - PO SF/YPO/2526/044",
+      "body": "Dear Sir,\n\nAgainst your PO SF/YPO/2526/044, we have dispatched 2,500 kg 30s and 1,500 kg 40s combed yarn.\nInvoice XYZ/YD/2410, vehicle TN-38-CK-1190. Expected at Surat in 4 days.\n\nXYZ Suppliers",
+      "attachments": [
+        {
+          "filename": "XYZ-YD-2410.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "supplier",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m108",
+      "thread": "t-webinar",
+      "days_ago": 11,
+      "time": "10:15",
+      "direction": "inbound",
+      "from": {
+        "name": "Export Promotion Council Desk",
+        "email": "events@epcdesk.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Webinar: RoDTEP and export incentives for textile exporters",
+      "body": "Join our free webinar on Friday, 4 PM, on RoDTEP rates, drawback and export documentation for\ntextile exporters. Register using the link.",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "other",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m109",
+      "thread": "t-xyzl-rate",
+      "days_ago": 12,
+      "time": "11:30",
+      "direction": "inbound",
+      "from": {
+        "name": "XYZ Logistics",
+        "email": "operations@xyzlogistics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Freight rate revision due to diesel price increase",
+      "body": "Dear Sir,\n\nDue to the increase in diesel prices, freight rates for all routes will be revised by 4% from the 1st\nof next month. Revised rate card attached.\n\nXYZ Logistics",
+      "attachments": [
+        {
+          "filename": "RateCard_XYZL.pdf",
+          "mime_type": "application/pdf",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "logistics",
+        "priority": "medium",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m110",
+      "thread": "t-suresh-stock",
+      "days_ago": 13,
+      "time": "17:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Suresh Patil",
+        "email": "dispatch@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Finished fabric stock position",
+      "body": "Sir,\n\nFinished stock in godown: cambric 6,200 m, poplin 3,900 m, twill 1,100 m, PC shirting 2,400 m.\nSheet attached.\n\nSuresh",
+      "attachments": [
+        {
+          "filename": "Stock_Position.xlsx",
+          "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 84000
+        }
+      ],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "internal",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m111",
+      "thread": "t-courier-samples",
+      "days_ago": 16,
+      "time": "18:10",
+      "direction": "inbound",
+      "from": {
+        "name": "SwiftParcel Courier",
+        "email": "noreply@swiftparcel.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Delivered: Shipment SP7781203 to Tiruppur",
+      "body": "Your shipment SP7781203 (documents/samples) has been delivered to Kaveri Garments, Tiruppur.\nReceived by: Ravi.",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "logistics",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m112",
+      "thread": "t-desai-payment",
+      "days_ago": 16,
+      "time": "13:20",
+      "direction": "inbound",
+      "from": {
+        "name": "Desai Uniforms",
+        "email": "orders@desaiuniforms.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Payment released - Invoice SF/2526/0365",
+      "body": "Dear Sir,\n\nWe have released Rs. 1,84,000 against your invoice SF/2526/0365 by NEFT today.\nUTR: HDFCN52025110455120\n\nDesai Uniforms Accounts",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m113",
+      "thread": "t-hotel-linen",
+      "days_ago": 17,
+      "time": "11:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Hotel Grand Residency",
+        "email": "purchase@grandresidency.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Table linen and napkin fabric requirement",
+      "body": "Dear Sir,\n\nWe are renovating our banquet hall and need cotton fabric for table cloths and napkins, white, about\n1,200 m. Please share options and prices.\n\nPurchase Department, Hotel Grand Residency, Udaipur",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "medium",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m114",
+      "thread": "t-hotel-linen",
+      "days_ago": 17,
+      "time": "16:10",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Hotel Grand Residency",
+          "email": "purchase@grandresidency.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Table linen and napkin fabric requirement",
+      "body": "Dear Sir,\n\nFor table linen we suggest our 2/1 cotton twill, white, 63\" at Rs. 124 per metre + GST, or cotton\ndobby (self design) at Rs. 138 per metre. Samples can be sent on request.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m115",
+      "thread": "t-patelpack-quote",
+      "days_ago": 17,
+      "time": "15:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Patel Packaging",
+        "email": "info@patelpackaging.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Quotation - printed 5-ply cartons",
+      "body": "Dear Sir,\n\n5-ply printed cartons (24x18x18 in): Rs. 64 per piece for 500 pcs. HDPE bags: Rs. 14 per piece.\nDelivery 7 days.\n\nPatel Packaging",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "supplier",
+        "priority": "low",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m116",
+      "thread": "t-colorchem-oc",
+      "days_ago": 19,
+      "time": "10:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Colorchem Dyes Sales",
+        "email": "sales@colorchemdyes.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Order confirmation - reactive dyes",
+      "body": "Dear Sir,\n\nWe confirm your order for 150 kg Reactive Red ME4BL and 100 kg Reactive Yellow ME4GL. Dispatch\ntomorrow. Invoice will follow.\n\nColorchem Dyes & Auxiliaries",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "supplier",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m117",
+      "thread": "t-pronet2",
+      "days_ago": 19,
+      "time": "21:00",
+      "direction": "inbound",
+      "from": {
+        "name": "ProNetwork",
+        "email": "notifications@pronetwork.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "3 new connection requests are waiting",
+      "body": "You have 3 pending connection requests. Respond now to grow your professional network.",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "other",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m118",
+      "thread": "t-zoya",
+      "days_ago": 21,
+      "time": "12:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Zoya Designer Studio",
+        "email": "zoya.studio@zoyadesigns.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Small lot of cotton slub fabric for boutique",
+      "body": "Hi,\n\nI need 300 m of cotton slub fabric in 3 colours for my boutique collection. Is that possible?\n\nZoya",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "low",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m119",
+      "thread": "t-zoya",
+      "days_ago": 21,
+      "time": "17:00",
+      "direction": "outbound",
+      "from": {
+        "name": "Suryodaya Fabrics",
+        "email": "office@suryodaya-fabrics.example"
+      },
+      "to": [
+        {
+          "name": "Zoya Designer Studio",
+          "email": "zoya.studio@zoyadesigns.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Small lot of cotton slub fabric for boutique",
+      "body": "Hi Zoya,\n\nWe can supply cotton slub in mustard, rust and olive from ready stock at Rs. 92 per metre + GST.\nMinimum 100 m per colour.\n\nRegards,\nRakesh Shah\nDirector, Suryodaya Fabrics Pvt. Ltd.\nSachin GIDC, Surat | +91 98250 00000",
+      "attachments": [],
+      "labels": [
+        "SENT"
+      ]
+    },
+    {
+      "id": "m120",
+      "thread": "t-news-weekly21",
+      "days_ago": 21,
+      "time": "07:30",
+      "direction": "inbound",
+      "from": {
+        "name": "Textile Insights Weekly",
+        "email": "newsletter@textileinsights.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Govt announces PLI 2.0 for textiles | Textile Insights Weekly",
+      "body": "This week: PLI 2.0 announced for man-made fibre and technical textiles; cotton MSP update.",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "other",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m121",
+      "thread": "t-old-1",
+      "days_ago": 35,
+      "time": "11:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Vikram Malhotra (ABC Textiles)",
+        "email": "purchase@abctextiles.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Season greetings and annual rate contract",
+      "body": "Dear Sir, we would like to discuss an annual rate contract for cotton twill. Regards, ABC Textiles",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "enquiry",
+        "priority": "low",
+        "action_required": true
+      }
+    },
+    {
+      "id": "m122",
+      "thread": "t-old-2",
+      "days_ago": 40,
+      "time": "10:00",
+      "direction": "inbound",
+      "from": {
+        "name": "XYZ Suppliers Accounts",
+        "email": "accounts@xyzsuppliers.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Old statement of account",
+      "body": "Statement of account attached. XYZ Suppliers",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "financial",
+        "priority": "low",
+        "action_required": false
+      }
+    },
+    {
+      "id": "m123",
+      "thread": "t-old-3",
+      "days_ago": 38,
+      "time": "09:00",
+      "direction": "inbound",
+      "from": {
+        "name": "Textile Insights Weekly",
+        "email": "newsletter@textileinsights.example"
+      },
+      "to": [
+        {
+          "name": "Suryodaya Fabrics",
+          "email": "office@suryodaya-fabrics.example"
+        }
+      ],
+      "cc": [],
+      "subject": "Archive issue | Textile Insights Weekly",
+      "body": "Old newsletter content.",
+      "attachments": [],
+      "labels": [
+        "INBOX"
+      ],
+      "gold": {
+        "category": "other",
+        "priority": "low",
+        "action_required": false
+      }
+    }
+  ]
+}
